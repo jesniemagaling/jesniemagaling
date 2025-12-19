@@ -7,7 +7,7 @@
 ### About Me
 
 - 🌍 Based in Philippines
-- 🖥️ My Portfolio: **[jesniemagaling.github.io/jesnie-portfolio/](https://jesniemagaling.github.io/jesnie-portfolio/)**
+- 🖥️ My Portfolio: **[jesniemagaling.vercel.app/](https://jesniemagaling.vercel.app/)**
 - ✉️ Email: magalingjesnie@gmail.com
 - 🤝 Open to collaborating on: MERN / Next.js projects  
 - 💬 Ask me about: React, Node.js, Next.js, Full Stack Dev  
