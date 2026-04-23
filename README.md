@@ -1,16 +1,16 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Jesnie!
 
-### A Full Stack Developer from the Philippines with experience building web applications using the **MERN stack**, **Next.js**, and **DevOps** tools. I focus on making clean, reliable solutions that work well and are easy to use. I’m always learning and enjoy solving real-world problems with code.
+### A Full Stack Developer from the Philippines with experience building web applications using modern **JavaScript/TypeScript frameworks**, **RESTful & GraphQL APIs**, and **DevOps** tools. I focus on making clean, reliable solutions that work well and are easy to use. I'm always learning and enjoy solving real-world problems with code.
 
 ---
 
 ### About Me
 
 - 🌍 Based in Philippines
-- 🖥️ My Portfolio: **[jesniemagaling.vercel.app/](https://jesniemagaling.vercel.app/)**
+- 🖥️ My Portfolio: **[jesniemagaling.me/](https://jesniemagaling.me/)**
 - ✉️ Email: magalingjesnie@gmail.com
-- 🤝 Open to collaborating on: MERN / Next.js projects  
-- 💬 Ask me about: React, Node.js, Next.js, Full Stack Dev  
+- 🤝 Open to collaborating on: Full Stack web projects (React, Next.js, Node.js, NestJS, Spring Boot)
+- 💬 Ask me about: React, Next.js, Node.js, NestJS, Spring Boot, REST APIs, or anything realated in Full Stack Development
 - ⚡ Fun fact: I once fixed a bug by taking a nap. Debugging is 50% thinking, 50% walking away.
 
 ---
@@ -18,46 +18,17 @@
 ### My Tech Stack
 
 **Frontend:**
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript"  /></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="ReactJS" title="ReactJS"  /></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="NextJS" title="NextJS"  /></a>
-  <a href="https://redux.js.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="ReduxJS" title="ReduxJS"  /></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="TailwindCSS" title="TailwindCSS"  /></a>
-  <a href="https://mui.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40" alt="MaterialUI" title="MaterialUI"  /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" title="HTML5"  /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" title="CSS3"  /></a>
-  <a href="https://sass-lang.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="SASS" title="SASS"  /></a>
-</p>
 
+<table><tr><td align="center"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" title="JavaScript"/></td><td align="center"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" title="TypeScript"/></td><td align="center"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="ReactJS" title="ReactJS"/></td><td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="NextJS" title="NextJS"/></td><td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="TailwindCSS" title="TailwindCSS"/></td><td align="center"><img src="https://skillicons.dev/icons?i=materialui" width="40" height="40" alt="MaterialUI" title="MaterialUI"/></td><td align="center"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" title="HTML5"/></td><td align="center"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" title="CSS3"/></td></tr></table>
 
 **Backend & Databases:**
-<p>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS" title="NodeJS"  /></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="ExpressJS" title="ExpressJS"  /></a>
-  <a href="https://graphql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40" alt="GraphQL" title="GraphQL"  /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB"  /></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" title="MySQL"  /></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" title="Firebase"  /></a>
-  <a href="https://supabase.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase" title="Supabase"  /></a>
-</p>
 
+<table><tr><td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="NodeJS" title="NodeJS"/></td><td align="center"><img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="ExpressJS" title="ExpressJS"/></td><td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40" alt="NestJS" title="NestJS"/></td><td align="center"><img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring Boot" title="Spring Boot"/></td><td align="center"><img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="GraphQL" title="GraphQL"/></td><td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" title="MongoDB"/></td><td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" title="MySQL"/></td><td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"/></td><td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" title="Firebase"/></td><td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase" title="Supabase"/></td></tr></table>
 
 **DevOps & Tools:**
-<p>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"  /></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker"  /></a>
-  <a href="https://vite.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="40" height="40" alt="Vite" title="Vite"  /></a>
-  <a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub"  /></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" title="Figma"  /></a>
-</p>
+
+<table><tr><td align="center"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" title="Git"/></td><td align="center"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" title="Docker"/></td><td align="center"><img src="https://skillicons.dev/icons?i=vite" width="40" height="40" alt="Vite" title="Vite"/></td><td align="center"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" title="GitHub"/></td><td align="center"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" title="Figma"/></td></tr></table>
 
 **Other Programming Languages:**
-<p>
-  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python"  /></a>
-  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" title="Java"  /></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" title="PHP"  /></a>
-</p>
 
-
+<table><tr><td align="center"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" title="Python"/></td><td align="center"><img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" title="Java"/></td><td align="center"><img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" title="PHP"/></td></tr></table>
