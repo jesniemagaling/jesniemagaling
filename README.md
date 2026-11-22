@@ -1,34 +1,57 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Jesnie!
+<a href="https://www.jesniemagaling.me">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner-light.svg" width="100%" alt="Full-stack developer · Metro Manila. I turn scattered data and manual work into software people can rely on. Ordering systems, transaction platforms and internal tools, built end to end and kept running in production.">
+  </picture>
+</a>
 
-### A Full Stack Developer from the Philippines with experience building web applications using modern **JavaScript/TypeScript frameworks**, **RESTful & GraphQL APIs**, and **DevOps** tools. I focus on making clean, reliable solutions that work well and are easy to use. I'm always learning and enjoy solving real-world problems with code.
+<p>
+  <a href="https://www.jesniemagaling.me"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://res.cloudinary.com/lebhdn7m/raw/upload/v1793082903/portfolio/uploads/docs/86c36d87-414c-45c5-a746-0dac7eeca2d1.pdf"><b>Résumé</b></a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/jesniemagaling"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="mailto:magalingjesnie@gmail.com"><b>Email</b></a>
+</p>
+
+## Selected work
+
+<a href="https://www.jesniemagaling.me/projects/aegisops">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/case-aegisops-dark.webp">
+    <img src="assets/case-aegisops-light.webp" width="100%" alt="AegisOps case study: ingestion, reconciliation and audit trails for transaction workflows, in one platform. Personal project, March to April 2026. Java, Spring Boot, Next.js, PostgreSQL, Redis, Docker.">
+  </picture>
+</a>
+
+<a href="https://www.jesniemagaling.me/projects/orderq">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/case-orderq-dark.webp">
+    <img src="assets/case-orderq-light.webp" width="100%" alt="ORDERQ case study: scan the table, order, pay and track, with no app to install. Capstone with a team of 4, August to December 2025, live. React, TypeScript, Node.js, Express.js, MySQL, Docker.">
+  </picture>
+</a>
+
+### More work
+
+<p>
+  <a href="https://www.jesniemagaling.me/projects/studymate-ai"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-studymate-ai-dark.webp"><img src="assets/work-studymate-ai-light.webp" width="32%" alt="StudyMate AI: turns PDFs into reviewers, quizzes and flashcards. Next.js, TypeScript, MongoDB."></picture></a>
+  <a href="https://www.jesniemagaling.me/projects/ecommerce"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-ecommerce-dark.webp"><img src="assets/work-ecommerce-light.webp" width="32%" alt="QVEE.CO: a responsive storefront front end. HTML, Tailwind CSS, Vite."></picture></a>
+  <a href="https://www.jesniemagaling.me/projects/chat-app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/work-chat-app-dark.webp"><img src="assets/work-chat-app-light.webp" width="32%" alt="ELECAR: a responsive landing page in HTML and CSS."></picture></a>
+</p>
+
+## Stack
+
+What I build with, front end to back end.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img src="assets/stack-light.svg" width="100%" alt="Stack. Languages: TypeScript, JavaScript, Java, Python. Front end: React, Next.js, Tailwind CSS. Back end and APIs: Node.js, NestJS, Express.js, Spring Boot, FastAPI, GraphQL, Socket.io. Data: PostgreSQL, MySQL, MongoDB, Redis. Cloud and DevOps: AWS, Cloudflare, Docker, GitHub Actions, Vercel. Monitoring: Prometheus, Grafana.">
+</picture>
+
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg">
+  <img src="assets/activity-light.svg" width="100%" alt="GitHub contribution calendar for the last 12 months, refreshed daily.">
+</picture>
 
 ---
 
-### About Me
-
-- 🌍 Based in Philippines
-- 🖥️ My Portfolio: **[jesniemagaling.me/](https://jesniemagaling.me/)**
-- ✉️ Email: magalingjesnie@gmail.com
-- 🤝 Open to collaborating on: Full Stack web projects (React, Next.js, Node.js, NestJS, Spring Boot)
-- 💬 Ask me about: React, Next.js, Node.js, NestJS, Spring Boot, REST APIs, or anything realated in Full Stack Development
-- ⚡ Fun fact: I once fixed a bug by taking a nap. Debugging is 50% thinking, 50% walking away.
-
----
-
-### My Tech Stack
-
-**Frontend:**
-
-<table><tr><td align="center"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" title="JavaScript"/></td><td align="center"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" title="TypeScript"/></td><td align="center"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="ReactJS" title="ReactJS"/></td><td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="NextJS" title="NextJS"/></td><td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="TailwindCSS" title="TailwindCSS"/></td><td align="center"><img src="https://skillicons.dev/icons?i=materialui" width="40" height="40" alt="MaterialUI" title="MaterialUI"/></td><td align="center"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" title="HTML5"/></td><td align="center"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" title="CSS3"/></td></tr></table>
-
-**Backend & Databases:**
-
-<table><tr><td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="NodeJS" title="NodeJS"/></td><td align="center"><img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="ExpressJS" title="ExpressJS"/></td><td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40" alt="NestJS" title="NestJS"/></td><td align="center"><img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring Boot" title="Spring Boot"/></td><td align="center"><img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="GraphQL" title="GraphQL"/></td><td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" title="MongoDB"/></td><td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" title="MySQL"/></td><td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"/></td><td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase" title="Firebase"/></td><td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase" title="Supabase"/></td></tr></table>
-
-**DevOps & Tools:**
-
-<table><tr><td align="center"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" title="Git"/></td><td align="center"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" title="Docker"/></td><td align="center"><img src="https://skillicons.dev/icons?i=vite" width="40" height="40" alt="Vite" title="Vite"/></td><td align="center"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" title="GitHub"/></td><td align="center"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" title="Figma"/></td></tr></table>
-
-**Other Programming Languages:**
-
-<table><tr><td align="center"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python" title="Python"/></td><td align="center"><img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" title="Java"/></td><td align="center"><img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" title="PHP"/></td></tr></table>
+<sub>Full-stack developer in Metro Manila · BS Information Technology, cum laude, 2026 · <a href="https://www.jesniemagaling.me">jesniemagaling.me</a></sub>
